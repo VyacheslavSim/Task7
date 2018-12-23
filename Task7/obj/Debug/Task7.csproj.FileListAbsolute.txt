@@ -1,0 +1,67 @@
+C:\2 курс\ЯиСП\Task7\Task7\obj\Debug\Task7.csprojAssemblyReference.cache
+C:\2 курс\ЯиСП\Task7\Task7\obj\Debug\MainWindow.g.cs
+C:\2 курс\ЯиСП\Task7\Task7\obj\Debug\App.g.cs
+C:\2 курс\ЯиСП\Task7\Task7\obj\Debug\Task7_MarkupCompile.cache
+C:\2 курс\ЯиСП\Task7\Task7\obj\Debug\Task7_MarkupCompile.lref
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\Task7.exe.config
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\Task7.exe
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\Task7.pdb
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\Data.dll
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\DataController.dll
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\LiveCharts.dll
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\LiveCharts.Wpf.dll
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\UILib.dll
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\EPPlus.dll
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\Newtonsoft.Json.dll
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\DataController.pdb
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\Data.pdb
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\UILib.pdb
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\LiveCharts.pdb
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\LiveCharts.xml
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\LiveCharts.Wpf.pdb
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\LiveCharts.Wpf.xml
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\EPPlus.xml
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\Newtonsoft.Json.pdb
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\Newtonsoft.Json.xml
+C:\2 курс\ЯиСП\Task7\Task7\obj\Debug\MainWindow.baml
+C:\2 курс\ЯиСП\Task7\Task7\obj\Debug\Task7.g.resources
+C:\2 курс\ЯиСП\Task7\Task7\obj\Debug\Task7.Properties.Resources.resources
+C:\2 курс\ЯиСП\Task7\Task7\obj\Debug\Task7.csproj.GenerateResource.cache
+C:\2 курс\ЯиСП\Task7\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\2 курс\ЯиСП\Task7\Task7\obj\Debug\Task7.csproj.CopyComplete
+C:\2 курс\ЯиСП\Task7\Task7\obj\Debug\Task7.exe
+C:\2 курс\ЯиСП\Task7\Task7\obj\Debug\Task7.pdb
+C:\2 курс\ЯиСП\Task7\Task7\bin\Debug\Source\prices.xlsx
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\Source\prices.xlsx
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\Task7.exe.config
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\Task7.exe
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\Task7.pdb
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\Data.dll
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\DataController.dll
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\LiveCharts.dll
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\UILib.dll
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\EPPlus.dll
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\DataController.pdb
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\Data.pdb
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\UILib.pdb
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\LiveCharts.pdb
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\LiveCharts.xml
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\EPPlus.xml
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\я\Desktop\Task7\Task7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\я\Desktop\Task7\Task7\obj\Debug\Task7.csprojResolveAssemblyReference.cache
+C:\Users\я\Desktop\Task7\Task7\obj\Debug\MainWindow.g.cs
+C:\Users\я\Desktop\Task7\Task7\obj\Debug\App.g.cs
+C:\Users\я\Desktop\Task7\Task7\obj\Debug\Task7_MarkupCompile.cache
+C:\Users\я\Desktop\Task7\Task7\obj\Debug\Task7_MarkupCompile.lref
+C:\Users\я\Desktop\Task7\Task7\obj\Debug\MainWindow.baml
+C:\Users\я\Desktop\Task7\Task7\obj\Debug\Task7.g.resources
+C:\Users\я\Desktop\Task7\Task7\obj\Debug\Task7.Properties.Resources.resources
+C:\Users\я\Desktop\Task7\Task7\obj\Debug\Task7.csproj.GenerateResource.Cache
+C:\Users\я\Desktop\Task7\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Task7\Task7\obj\Debug\Task7.exe
+C:\Users\я\Desktop\Task7\Task7\obj\Debug\Task7.pdb

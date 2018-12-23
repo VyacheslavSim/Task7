@@ -1,0 +1,23 @@
+C:\2 курс\ЯиСП\Task7\Data\bin\Debug\Data.dll
+C:\2 курс\ЯиСП\Task7\Data\bin\Debug\Data.pdb
+C:\2 курс\ЯиСП\Task7\Data\bin\Debug\EPPlus.dll
+C:\2 курс\ЯиСП\Task7\Data\bin\Debug\Newtonsoft.Json.dll
+C:\2 курс\ЯиСП\Task7\Data\bin\Debug\EPPlus.xml
+C:\2 курс\ЯиСП\Task7\Data\bin\Debug\Newtonsoft.Json.pdb
+C:\2 курс\ЯиСП\Task7\Data\bin\Debug\Newtonsoft.Json.xml
+C:\2 курс\ЯиСП\Task7\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\2 курс\ЯиСП\Task7\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\2 курс\ЯиСП\Task7\Data\obj\Debug\Data.csproj.CopyComplete
+C:\2 курс\ЯиСП\Task7\Data\obj\Debug\Data.dll
+C:\2 курс\ЯиСП\Task7\Data\obj\Debug\Data.pdb
+C:\Users\я\Desktop\Task7\Data\bin\Debug\Data.dll
+C:\Users\я\Desktop\Task7\Data\bin\Debug\Data.pdb
+C:\Users\я\Desktop\Task7\Data\bin\Debug\EPPlus.dll
+C:\Users\я\Desktop\Task7\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\я\Desktop\Task7\Data\bin\Debug\EPPlus.xml
+C:\Users\я\Desktop\Task7\Data\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\я\Desktop\Task7\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\я\Desktop\Task7\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\я\Desktop\Task7\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Task7\Data\obj\Debug\Data.dll
+C:\Users\я\Desktop\Task7\Data\obj\Debug\Data.pdb

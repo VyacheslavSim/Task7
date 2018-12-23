@@ -1,0 +1,27 @@
+C:\2 курс\ЯиСП\Task7\DataController\bin\Debug\DataController.dll
+C:\2 курс\ЯиСП\Task7\DataController\bin\Debug\DataController.pdb
+C:\2 курс\ЯиСП\Task7\DataController\bin\Debug\Data.dll
+C:\2 курс\ЯиСП\Task7\DataController\bin\Debug\EPPlus.dll
+C:\2 курс\ЯиСП\Task7\DataController\bin\Debug\Newtonsoft.Json.dll
+C:\2 курс\ЯиСП\Task7\DataController\bin\Debug\Data.pdb
+C:\2 курс\ЯиСП\Task7\DataController\bin\Debug\EPPlus.xml
+C:\2 курс\ЯиСП\Task7\DataController\bin\Debug\Newtonsoft.Json.pdb
+C:\2 курс\ЯиСП\Task7\DataController\bin\Debug\Newtonsoft.Json.xml
+C:\2 курс\ЯиСП\Task7\DataController\obj\Debug\DataController.csprojAssemblyReference.cache
+C:\2 курс\ЯиСП\Task7\DataController\obj\Debug\DataController.csproj.CoreCompileInputs.cache
+C:\2 курс\ЯиСП\Task7\DataController\obj\Debug\DataController.csproj.CopyComplete
+C:\2 курс\ЯиСП\Task7\DataController\obj\Debug\DataController.dll
+C:\2 курс\ЯиСП\Task7\DataController\obj\Debug\DataController.pdb
+C:\Users\я\Desktop\Task7\DataController\bin\Debug\DataController.dll
+C:\Users\я\Desktop\Task7\DataController\bin\Debug\DataController.pdb
+C:\Users\я\Desktop\Task7\DataController\bin\Debug\Data.dll
+C:\Users\я\Desktop\Task7\DataController\bin\Debug\EPPlus.dll
+C:\Users\я\Desktop\Task7\DataController\bin\Debug\Newtonsoft.Json.dll
+C:\Users\я\Desktop\Task7\DataController\bin\Debug\Data.pdb
+C:\Users\я\Desktop\Task7\DataController\bin\Debug\EPPlus.xml
+C:\Users\я\Desktop\Task7\DataController\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\я\Desktop\Task7\DataController\bin\Debug\Newtonsoft.Json.xml
+C:\Users\я\Desktop\Task7\DataController\obj\Debug\DataController.csprojResolveAssemblyReference.cache
+C:\Users\я\Desktop\Task7\DataController\obj\Debug\DataController.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Task7\DataController\obj\Debug\DataController.dll
+C:\Users\я\Desktop\Task7\DataController\obj\Debug\DataController.pdb
